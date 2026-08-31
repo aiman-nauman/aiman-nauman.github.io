@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Free Fermions in Disguise and Supersymmetry
-description: with background image
+title: free fermions in disguise and supersymmetry
+description: MSc dissertation
 img: assets/img/12.jpg
 importance: 1
 category: work
