@@ -1,142 +1,39 @@
 cv:
-name: Aiman Nauman
-label: Theoretical Physicist
-email: [aimannaumanuni@gmail.com](mailto:aimannaumanuni@gmail.com)
-location: Lahore, Pakistan
-image: ""
+  name: Aiman Nauman
+  label: Theoretical Physicist
+  email: aimannaumanuni@gmail.com
+  location: Lahore, Pakistan
+  image: ""
 
-summary: >
-Theoretical physicist interested in quantum many-body physics,
-condensed matter theory, quantum information, topology, and emergent
-phenomena in strongly interacting systems.
+  summary: >
+    Theoretical physicist interested in quantum many-body physics,
+    condensed matter theory, quantum information, topology, and
+    emergent phenomena in strongly interacting systems.
 
-social_networks:
-- network: LinkedIn
-username: aiman-n
+  social_networks:
+    - network: LinkedIn
+      username: aiman-n
 
-sections:
+  sections:
+    Education:
+      - institution: University of Oxford
+        location: Oxford, England
+        area: Mathematical and Theoretical Physics
+        studyType: MSc
+        start_date: 2025-10
+        end_date: 2026-06
+        score: Distinction
+        highlights:
+          - "Malala Scholar — awarded full funding (£58,000)."
 
-```
-Education:
-  - institution: University of Oxford
-    location: Oxford, England
-    area: Mathematical and Theoretical Physics
-    studyType: MSc
-    start_date: 2025-10
-    end_date: 2026-06
-    score: Distinction
-    highlights:
-      - "Malala Scholar — awarded full funding (£58,000)."
-
-  - institution: Lahore University of Management Sciences (LUMS)
-    location: Lahore, Pakistan
-    area: Physics
-    studyType: BS
-    start_date: 2021-09
-    end_date: 2025-05
-    score: Summa Cum Laude
-    highlights:
-      - "NMF Gold Medal for first position in Physics."
-      - "Merit Scholarship recipient, 2021–2025."
-      - "Dean's Honour List, 2021–2025."
-
-Research Experience:
-  - company: University of Oxford
-    position: MSc Research Project — Free Fermions in Disguise
-    location: Oxford, England
-    start_date: 2025-11
-    end_date: 2026-06
-    summary: >
-      Research project supervised by Prof. Paul Fendley studying free
-      fermions in disguise (FFD) models and their graph-theoretic
-      structure.
-    highlights:
-      - "Studied spin systems with free-fermionic spectra that do not admit local Jordan–Wigner transformations."
-      - "Investigated graph-theoretic solvability conditions for FFD models using numerical and graphical methods."
-      - "Studied connections between supersymmetry in these models and graph-theoretic problems."
-
-  - company: Research Project
-    position: Sensing High-Frequency AC Fields
-    start_date: 2025-06
-    end_date: 2026-01
-    summary: >
-      Research project supervised by Prof. Adam Zaman Chaudhary on
-      quantum metrology with multi-qubit probes.
-    highlights:
-      - "Studied sensing of AC fields using a multi-qubit probe and determined precision limits using a one-axis twisting with transverse-field Hamiltonian."
-      - "Demonstrated a fourth-order improvement in Quantum Fisher Information with increasing angular momentum, surpassing conventional quantum-metrology limits."
-
-  - company: Research Project
-    position: Particle Production Through a Cosmological Bounce
-    start_date: 2024-06
-    end_date: 2026-07
-    summary: >
-      Research project supervised by Dr. Mustafa Saeed, with Irfan Javed
-      as collaborator, studying particle production in a bouncing universe
-      using quantum field theory in curved spacetime.
-    highlights:
-      - "Modeled particle production across a cosmological bounce and incorporated backreaction of quantum matter on the spacetime background."
-      - "Found that particle creation peaks near the bounce and approaches a near-thermal spectrum at late times."
-      - "Identified a spectral signature absent in classical cosmology."
-      - "Manuscript submitted to Physical Review D; preprint available on arXiv."
-
-Teaching:
-  - company: Oxford Summer Courses
-    position: Physics Instructor
-    location: Oxford, England
-    start_date: 2026-07
-    end_date: 2026-07
-    highlights:
-      - "Designed original tutorial content and problem sheets spanning classical mechanics to general relativity for international students aged 16–17."
-      - "Led small-group tutorials and one-to-one feedback sessions following the Oxford tutorial model."
-
-  - company: Lahore University of Management Sciences (LUMS)
-    position: Teaching Assistant
-    location: Lahore, Pakistan
-    start_date: 2023-09
-    end_date: 2025-05
-    highlights:
-      - "Teaching Assistant for Quantum Mechanics I, Modern Physics, Calculus II, and General Relativity."
-      - "Held weekly office hours, planned and delivered tutorials, and prepared and graded quizzes and assignments."
-      - "Worked on compiling a problem book for Quantum Mechanics I."
-
-Awards:
-  - title: NMF Gold Medal
-    date: 2025
-    awarder: Lahore University of Management Sciences
-    summary: Awarded for first position in Physics.
-
-  - title: Malala Scholarship
-    date: 2025
-    awarder: University of Oxford
-    summary: Full funding (£58,000) for the MSc in Mathematical and Theoretical Physics.
-
-  - title: Merit Scholarship
-    date: 2021
-    awarder: Lahore University of Management Sciences
-    summary: Merit scholarship awarded throughout undergraduate study.
-
-Skills:
-  - name: Research
-    keywords: "Quantum Many-Body Physics, Condensed Matter Theory, Quantum Information, Quantum Metrology, Topological Physics, Free Fermions, Graph Theory"
-
-  - name: Computational
-    keywords: "Python, NumPy, SciPy, SymPy, Matplotlib, Qiskit, Maple"
-
-Languages:
-  - name: English
-    summary: "Fluent"
-
-Interests:
-  - name: Theoretical Physics
-    keywords: "Quantum Many-Body Systems, Condensed Matter Theory, Quantum Information, Topology, Strongly Correlated Systems"
-
-Test Scores:
-  - name: GRE
-    score: "332 (Q: 170, V: 162, Writing: 7.5)"
-    date: 2024-11-01
-
-  - name: IELTS
-    score: "8.5"
-    date: 2024-09-01
-```
+      - institution: Lahore University of Management Sciences
+        location: Lahore, Pakistan
+        area: Physics
+        studyType: BS
+        start_date: 2021-09
+        end_date: 2025-05
+        score: Summa Cum Laude
+        highlights:
+          - "NMF Gold Medal for first position in Physics."
+          - "Merit Scholarship recipient, 2021–2025."
+          - "Dean's Honour List, 2021–2025."
