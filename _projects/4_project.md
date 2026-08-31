@@ -1,10 +1,10 @@
 ---
 layout: page
 title: project 4
-description: another without an image
+description: LRG in networks
 img:
 importance: 3
-category: fun
+category: research 
 ---
 
 Every project has a beautiful feature showcase page.
