@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: network with all-or-none copying 
+description: mini-project for the Networks at Oxford
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: other
 ---
 
 Every project has a beautiful feature showcase page.
