@@ -4,7 +4,7 @@ title: bound muons
 description: course project for QFT at LUMS
 img:
 importance: 4
-category: fun
+category: other
 ---
 
 Every project has a beautiful feature showcase page.
