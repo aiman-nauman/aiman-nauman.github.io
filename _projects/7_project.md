@@ -4,7 +4,7 @@ title: overview of chern-simons theory
 description: course project for Topological Methods at LUMS
 img: assets/img/4.jpg
 importance: 1
-category: work
+category: other
 related_publications: true
 ---
 
