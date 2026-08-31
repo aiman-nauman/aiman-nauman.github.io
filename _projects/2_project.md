@@ -1,7 +1,7 @@
 ---
 layout: page
 title: particle production in a bouncing universe
-description:
+description: BS thesis
 img: assets/img/3.jpg
 importance: 2
 category: work
