@@ -3,9 +3,8 @@ layout: page
 title: sensing high frequency AC fields
 description: 
 img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
 importance: 3
-category: work
+category: research
 ---
 
 Every project has a beautiful feature showcase page.
