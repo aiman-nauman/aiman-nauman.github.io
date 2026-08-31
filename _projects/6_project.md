@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: bound muons
+description: course project for QFT at LUMS
 img:
 importance: 4
 category: fun
