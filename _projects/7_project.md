@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
+title: overview of chern-simons theory
+description: course project for Topological Methods at LUMS
 img: assets/img/4.jpg
 importance: 1
 category: work
