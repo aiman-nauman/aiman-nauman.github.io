@@ -5,7 +5,7 @@ description: BS thesis
 img: assets/img/3.jpg
 importance: 2
 category: research
-related_publications=true
+related_publications: true
 ---
 
 Every project has a beautiful feature showcase page.
